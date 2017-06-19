@@ -1,0 +1,14 @@
+{
+  "name": "yehpeiwen-detector",
+  "version": "1.0.0",
+  "main": "background.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "meisheep",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  }
+}
