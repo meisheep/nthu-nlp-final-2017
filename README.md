@@ -5,6 +5,7 @@ A NLP project for detecting opinion spam.
 ### /scrapy
 We use Scrapy.py to scrape product reviews from Pixnet as our datasets.
 #### How to use
+**Make sure you have installed Scrapy.py**
 ```
 cd scrapy/
 scrapy crawl pixnet -a keyword=<keyword>
